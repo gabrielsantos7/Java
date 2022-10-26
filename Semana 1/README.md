@@ -1,6 +1,6 @@
 ## Primeiros passos na linguagem Java
 
-Java é uma linguagem de programação que possui suas peculiaridades. Estes foram os primeiros comandos em java que utilizamos em sala de aula. Estávamos nos familiarizando com o ambiente, voltando às aulas presenciais depois de dois anos de aulas remotas devido à pandemia, enfim...
+Java é uma linguagem de programação que possui suas peculiaridades. Estes foram os primeiros comandos em java que utilizamos em sala de aula. Estávamos nos familiarizando com o ambiente, voltando às aulas presenciais depois de dois anos de aulas remotas devido à pandemia, enfim... <br>Nessa primeira semana de aula (24/02/2022), vimos alguns conceitos básicos, assim como alguns métodos String.
 
 ## Lista de arquivos
 
