@@ -6,7 +6,6 @@ Java é uma linguagem de programação que possui suas peculiaridades. Estes for
 
 * **AHelloWorld:** O comando mais básico em qualquer linguagem de programação, para o computador imprimir na tela uma mensagem "Hello, World".<br><br>
 * **Ex1:** Uso dos métodos toUpperCase() e toLowerCase() para transformar todo o texto de uma String em maiúsculo e minúsculo, respectivamente.<br><br>
-
 * **Ex2:** Uso e mais alguns métodos String, como indexOf(), lenght() e charAt().  <br><br>
 * **Ex3:** Uso de operador (+)e método de concatenação (concat()) para concatenar Strings.<br><br>
 * **Ex4:** Concatenação de String com inteiro, que resultará uma variável String.<br><br>
