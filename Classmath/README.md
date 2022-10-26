@@ -1,6 +1,6 @@
 ## ClassMath Java
 
-Nessa semana, estudamos sobre funções matemáticas da biblioteca Math em Java. São comandos que realizam cálculos e podem ser muito úteis.
+Nessa semana(03/03/2022), estudamos sobre funções matemáticas da biblioteca Math em Java. São comandos que realizam cálculos e podem ser muito úteis.
 
 ## Lista de arquivos
 
