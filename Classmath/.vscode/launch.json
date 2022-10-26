@@ -1,0 +1,70 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Teste4",
+            "request": "launch",
+            "mainClass": "Teste4",
+            "projectName": "Classmath_889cd753"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste1",
+            "request": "launch",
+            "mainClass": "Teste1",
+            "projectName": "Classmath_889cd753"
+        },
+        {
+            "type": "java",
+            "name": "Launch Equacao2grau",
+            "request": "launch",
+            "mainClass": "Equacao2grau",
+            "projectName": "Classmath_889cd753"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste2",
+            "request": "launch",
+            "mainClass": "Teste2",
+            "projectName": "Classmath_889cd753"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste1",
+            "request": "launch",
+            "mainClass": "Teste1",
+            "projectName": "Classmath_570e2109"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste3",
+            "request": "launch",
+            "mainClass": "Teste3",
+            "projectName": "Classmath_570e2109"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste2",
+            "request": "launch",
+            "mainClass": "Teste2",
+            "projectName": "Classmath_570e2109"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Classmath",
+            "request": "launch",
+            "mainClass": "Classmath",
+            "projectName": "Classmath_570e2109"
+        }
+    ]
+}
