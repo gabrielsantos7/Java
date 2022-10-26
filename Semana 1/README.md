@@ -1,18 +1,17 @@
-## Getting Started
+## Primeiros passos na linguagem Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Java é uma linguagem de programação que possui suas peculiaridades. Estes foram os primeiros comandos em java que utilizamos em sala de aula. Estávamos nos familiarizando com o ambiente, voltando às aulas presenciais depois de dois anos de aulas remotas devido à pandemia, enfim...
 
-## Folder Structure
+## Lista de arquivos
 
-The workspace contains two folders by default, where:
+* **AHelloWorld:** O comando mais básico em qualquer linguagem de programação, para o computador imprimir na tela uma mensagem "Hello, World".<br><br>
+* **Ex1:** Uso dos métodos toUpperCase() e toLowerCase() para transformar todo o texto de uma String em maiúsculo e minúsculo, respectivamente.<br><br>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* **Ex2:** Uso e mais alguns métodos String, como indexOf(), lenght() e charAt().  <br><br>
+* **Ex3:** Uso de operador (+)e método de concatenação (concat()) para concatenar Strings.<br><br>
+* **Ex4:** Concatenação de String com inteiro, que resultará uma variável String.<br><br>
+* **Ex5:** Arrays (vetores) e alguns de seus métodos, como lenght() e toString().<br><br>
+* **Ex6:** Arrays multimensionais (matrizes) e alguns de seus métodos, como [i].lenght() e deepToString().<br><br>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* **Ex8:** Como receber dados do usuário em Java, usando a classe Scanner.  <br><br>
+*Caso tenha notado, não tem o ex7 aqui. Este fato se deve pois juntei o ex6 e o ex7 em um arquivo só, para não ficar muito redundante.*
