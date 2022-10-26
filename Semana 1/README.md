@@ -14,4 +14,4 @@ Java é uma linguagem de programação que possui suas peculiaridades. Estes for
 * **Ex6:** Arrays multimensionais (matrizes) e alguns de seus métodos, como [i].lenght() e deepToString().<br><br>
 
 * **Ex8:** Como receber dados do usuário em Java, usando a classe Scanner.  <br><br>
-*Caso tenha notado, não tem o ex7 aqui. Este fato se deve pois juntei o ex6 e o ex7 em um arquivo só, para não ficar muito redundante.*
+*Caso tenha notado, não tem o ex7 aqui. Este fato se deve pois juntei o ex6 e o ex7 em um arquivo só, para não ficar muito redundante. <br>Espero que esse seja o primeiro de muitos repositórios que criarei aqui no GitHub.*
