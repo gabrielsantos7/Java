@@ -39,6 +39,7 @@ public class Escher {
             System.out.println("N");
         input.close();
     }
+    
     public static void main(String[] args) {
         Scanner input = new Scanner (System.in);
         int num = input.nextInt();

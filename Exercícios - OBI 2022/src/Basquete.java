@@ -18,6 +18,7 @@ public class Basquete{
   
         return r;
     }
+    
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int d = input.nextInt();

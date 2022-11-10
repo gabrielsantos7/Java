@@ -26,6 +26,7 @@ public class Album {
         input.close();
         return cont;
     }
+    
     public static void main(String[] args) {
 
         Scanner input = new Scanner (System.in);
