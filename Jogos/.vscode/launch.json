@@ -1,0 +1,140 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Vetor",
+      "request": "launch",
+      "mainClass": "Vetor",
+      "projectName": "Jogos_9765ca6f"
+    },
+    {
+      "type": "java",
+      "name": "Launch caca_niquel",
+      "request": "launch",
+      "mainClass": "caca_niquel",
+      "projectName": "Jogos_9765ca6f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Oficial21",
+      "request": "launch",
+      "mainClass": "Oficial21",
+      "projectName": "Jogos_9765ca6f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Vetor",
+      "request": "launch",
+      "mainClass": "Vetor",
+      "projectName": "Jogos_a39a5648"
+    },
+    {
+      "type": "java",
+      "name": "Launch Oficial21",
+      "request": "launch",
+      "mainClass": "Oficial21",
+      "projectName": "Jogos_a39a5648"
+    },
+    {
+      "type": "java",
+      "name": "Launch Vt",
+      "request": "launch",
+      "mainClass": "Vt",
+      "projectName": "Jogos_a39a5648"
+    },
+    {
+      "type": "java",
+      "name": "Launch Testes",
+      "request": "launch",
+      "mainClass": "Testes",
+      "projectName": "Jogos_a39a5648"
+    },
+    {
+      "type": "java",
+      "name": "Launch Testes",
+      "request": "launch",
+      "mainClass": "Testes",
+      "projectName": "Jogos_54dab14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Vinte_e_um",
+      "request": "launch",
+      "mainClass": "Vinte_e_um",
+      "projectName": "Jogos_54dab14"
+    },
+    {
+      "type": "java",
+      "name": "Launch Vetor",
+      "request": "launch",
+      "mainClass": "Vetor",
+      "projectName": "Jogos_54dab14"
+    },
+    {
+      "type": "java",
+      "name": "Launch descubra_seu_nome",
+      "request": "launch",
+      "mainClass": "descubra_seu_nome",
+      "projectName": "Jogos_54dab14"
+    },
+    {
+      "type": "java",
+      "name": "Launch caca_niquel",
+      "request": "launch",
+      "mainClass": "caca_niquel",
+      "projectName": "Jogos_54dab14"
+    },
+    {
+      "type": "java",
+      "name": "Launch descubra_seu_nome",
+      "request": "launch",
+      "mainClass": "descubra_seu_nome",
+      "projectName": "Jogos_76ecfd0d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Random",
+      "request": "launch",
+      "mainClass": "Random",
+      "projectName": "Jogos_76ecfd0d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Testes",
+      "request": "launch",
+      "mainClass": "Testes",
+      "projectName": "Jogos_76ecfd0d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Vetor",
+      "request": "launch",
+      "mainClass": "Vetor",
+      "projectName": "Jogos_76ecfd0d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Vinte_e_um",
+      "request": "launch",
+      "mainClass": "Vinte_e_um",
+      "projectName": "Jogos_76ecfd0d"
+    },
+    {
+      "type": "java",
+      "name": "Launch caca_niquel",
+      "request": "launch",
+      "mainClass": "caca_niquel",
+      "projectName": "Jogos_76ecfd0d"
+    }
+  ]
+}
